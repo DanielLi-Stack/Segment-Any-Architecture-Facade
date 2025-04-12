@@ -12,7 +12,7 @@ Abstract: *In the context of the digital development of architecture, the automa
 ![img](assets/05.png)
 
 *Figure 3) The pipeline of SAAF. Given the input image and text query, the multimodal LLM (e.g, LLaVA ) generates text output. The last-layer embedding for the <SEG> token is then decoded into the segmentation mask via the decoder..*
-![img](assets/06  .png)
+![img](assets/06.png)
 
 *Figure 4) Segmentation results of SAAF on different datasets.*
 ![img](assets/02.png)
