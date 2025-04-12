@@ -25,11 +25,11 @@ Abstract: *In the context of the digital development of architecture, the automa
 ## Dataset
 Realistic Image_completed.*
 <p align="center">
-  <img src="samples/image1.jpg" width="180" title="Facade 1"/>
-  <img src="samples/image2.jpg" width="180" title="Facade 2"/>
-  <img src="samples/image3.jpg" width="180" title="Facade 3"/>
-  <img src="samples/image4.jpg" width="180" title="Facade 4"/>
-  <img src="samples/image5.jpg" width="180" title="Facade 5"/>
+  <img src="sample/01-01.jpg" width="180" title="Facade 1"/>
+  <img src="sample/01-02.jpg" width="180" title="Facade 2"/>
+  <img src="sample/01-03.jpg" width="180" title="Facade 3"/>
+  <img src="sample/01-04.jpg" width="180" title="Facade 4"/>
+  <img src="sample/01-05.jpg" width="180" title="Facade 5"/>
 </p>
 
 Realistic Image_completed.*
