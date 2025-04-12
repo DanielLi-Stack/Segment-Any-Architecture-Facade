@@ -23,37 +23,46 @@ Abstract: *In the context of the digital development of architecture, the automa
 
 
 ## Dataset
-*Figure 1) Realistic Image_completed.*
+Realistic Image_completed.*
+<p align="center">
+  <img src="samples/image1.jpg" width="180" title="Facade 1"/>
+  <img src="samples/image2.jpg" width="180" title="Facade 2"/>
+  <img src="samples/image3.jpg" width="180" title="Facade 3"/>
+  <img src="samples/image4.jpg" width="180" title="Facade 4"/>
+  <img src="samples/image5.jpg" width="180" title="Facade 5"/>
+</p>
+
+Realistic Image_completed.*
 ![img](assets/07.png)
 
-*Figure 1) Realistic Image_partial.*
+Realistic Image_partial.*
 ![img](assets/07.png)
 
-*Figure 1) Perspective Image.*
+Perspective Image.*
 ![img](assets/07.png)
 
-*Figure 1) Render Image.*
+Render Image.*
 ![img](assets/07.png)
 
-*Figure 1) CAD Image.*
+CAD Image.*
 ![img](assets/07.png)
 
-*Figure 1) Pen drawing Image.*
+Pen drawing Image.*
 ![img](assets/07.png)
 
-*Figure 1) Illustration Image.*
+Illustration Image.*
 ![img](assets/07.png)
 
-*Figure 1) Watercolor Image.*
+Watercolor Image.*
 ![img](assets/07.png)
 
-*Figure 1) Book Image.*
+Book Image.*
 ![img](assets/07.png)
 
-*Figure 1) Digital Model Image.*
+Digital Model Image.*
 ![img](assets/07.png)
 
-*Figure 1) Historical Document Image.*
+Historical Document Image.*
 ![img](assets/07.png)
 
 ## TODO List
@@ -68,9 +77,9 @@ Abstract: *In the context of the digital development of architecture, the automa
 ## Inference
 
 ```
-python FloorPlan_LLaMa_Sample.py --dataset ArchiMetricsNet --batch_size 32  --color_configuration 0 --model_path ckpts/exp/model10000.pt --num_samples 64
+python Segment_Any_Architecture_Facade_Sample.py --dataset ArchiMetricsNet --batch_size 32  --color_configuration 0 --model_path ckpts/exp/model10000.pt --num_samples 64
 ```
 ## Train
 
 ```
-python FloorPlan_LLaMa_Train.py --dataset ArchiMetricsNet --batch_size 32  --color_configuration 0 
+python Segment_Any_Architecture_Facade_Train.py --dataset ArchiMetricsNet --batch_size 32  --color_configuration 0 
