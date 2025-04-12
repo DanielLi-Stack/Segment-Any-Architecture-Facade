@@ -1,4 +1,4 @@
-# Segment-Any-Architecture-Facade
+![image](https://github.com/user-attachments/assets/834c1118-44d4-4132-97eb-65ffc1df5900)# Segment-Any-Architecture-Facade
 Abstract: *In the context of the digital development of architecture, the automatic segmentation of walls and windows is a key step in improving the efficiency of building information models and computer-aided design. This study proposes an automatic segmentation model for building facade walls and windows based on multimodal semantic guidance, called Segment Any Architectural Facades (SAAF). First, SAAF has a multimodal semantic collaborative feature extraction mechanism. By combining natural language processing technology, it can fuse the semantic information in text descriptions with image features, enhancing the semantic understanding of building facade components. Second, we developed an end-to-end training framework that enables the model to autonomously learn the mapping relationship from text descriptions to image segmentation, reducing the influence of manual intervention on the segmentation results and improving the automation and robustness of the model. Finally, we conducted extensive experiments on multiple facade datasets. The segmentation results of SAAF outperformed existing methods in the mIoU metric, indicating that the SAAF model can maintain high-precision segmentation ability when faced with diverse datasets. Our model has made certain progress in improving the accuracy and generalization ability of the wall and window segmentation task. It is expected to provide a reference for the development of architectural computer vision technology and also explore new ideas and technical paths for the application of multimodal learning in the architectural field.*
 
 
@@ -20,6 +20,41 @@ Abstract: *In the context of the digital development of architecture, the automa
 *Figure 5) SAAF performs wall and window segmentation based on semantic guidance.*
 ![img](assets/03.png)
 
+
+
+## Dataset
+*Figure 1) Realistic Image_completed.*
+![img](assets/07.png)
+
+*Figure 1) Realistic Image_partial.*
+![img](assets/07.png)
+
+*Figure 1) Perspective Image.*
+![img](assets/07.png)
+
+*Figure 1) Render Image.*
+![img](assets/07.png)
+
+*Figure 1) CAD Image.*
+![img](assets/07.png)
+
+*Figure 1) Pen drawing Image.*
+![img](assets/07.png)
+
+*Figure 1) Illustration Image.*
+![img](assets/07.png)
+
+*Figure 1) Watercolor Image.*
+![img](assets/07.png)
+
+*Figure 1) Book Image.*
+![img](assets/07.png)
+
+*Figure 1) Digital Model Image.*
+![img](assets/07.png)
+
+*Figure 1) Historical Document Image.*
+![img](assets/07.png)
 
 ## TODO List
 
