@@ -23,46 +23,40 @@ Abstract: *In the context of the digital development of architecture, the automa
 
 
 ## Dataset
-Realistic Image_completed.*
-<p align="left">
-  <img src="sample/01-01.jpg" width="180" title="Facade 1"/>
-  <img src="sample/01-02.jpg" width="180" title="Facade 2"/>
-  <img src="sample/01-03.jpg" width="180" title="Facade 3"/>
-  <img src="sample/01-04.jpg" width="180" title="Facade 4"/>
-  <img src="sample/01-05.jpg" width="180" title="Facade 5"/>
-</p>
+*Realistic Image_completed.*
+![img](sample/001.png)
 
-Realistic Image_completed.*
+*Realistic Image_completed.*
+![img](sample/002.png)
+
+*Realistic Image_partial.*
+![img](sample/003.png)
+
+*Perspective Image.*
+![img](sample/004.png)
+
+*Render Image.*
+![img](sample/005.png)
+
+*CAD Image.*
 ![img](assets/07.png)
 
-Realistic Image_partial.*
+*Pen drawing Image.*
 ![img](assets/07.png)
 
-Perspective Image.*
+*Illustration Image.*
 ![img](assets/07.png)
 
-Render Image.*
+*Watercolor Image.*
 ![img](assets/07.png)
 
-CAD Image.*
+*Book Image.*
 ![img](assets/07.png)
 
-Pen drawing Image.*
+*Digital Model Image.*
 ![img](assets/07.png)
 
-Illustration Image.*
-![img](assets/07.png)
-
-Watercolor Image.*
-![img](assets/07.png)
-
-Book Image.*
-![img](assets/07.png)
-
-Digital Model Image.*
-![img](assets/07.png)
-
-Historical Document Image.*
+*Historical Document Image.*
 ![img](assets/07.png)
 
 ## TODO List
