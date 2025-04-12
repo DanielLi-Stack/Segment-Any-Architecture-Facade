@@ -5,13 +5,13 @@ Abstract: *In the context of the digital development of architecture, the automa
 [**Paper**]() | [**Project Page**]() | [**Model Weights**]() | [**Huggingface Demo**]() |
 
 
-*Figure 1) The framework of FP-LLaMa involves several steps. First, we train a VQ-VAE model, followed by training the FP-LLaMa. Subsequently, we apply RLHF using FloorPlan-MPS to align the model with architects' feedback.*
+*Figure 1) Graphic Abstract of Segement Any Architecture Facade (SAAF).*
 ![img](assets/01.png)
 
-*Figure 2) Architects assess building floor plans through various professional lenses, which can be broadly categorized into functionality, flow, and overall layout.*
+*Figure 2) Schematic diagram of the reference segmentation dataset.*
 ![img](assets/2.png)
 
-*Figure 3) The 165 Categories of Floor Plans.*
+*Figure 3) The pipeline of SAAF. Given the input image and text query, the multimodal LLM (e.g, LLaVA ) generates text output. The last-layer embedding for the <SEG> token is then decoded into the segmentation mask via the decoder..*
 ![img](assets/3.png)
 
 *Figure 4) The Number of Floor Plans in Each Category.*
