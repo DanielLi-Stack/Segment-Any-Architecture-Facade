@@ -23,41 +23,39 @@ Abstract: *In the context of the digital development of architecture, the automa
 
 
 ## Dataset
-*Realistic Image_completed.*
-![img](sample/001.png)
 
 *Realistic Image_completed.*
-![img](sample/002.png)
+![img](sample/001.jpg)
 
 *Realistic Image_partial.*
-![img](sample/003.png)
+![img](sample/002.jpg)
 
 *Perspective Image.*
-![img](sample/004.png)
+![img](sample/003.jpg)
 
 *Render Image.*
-![img](sample/005.png)
+![img](sample/004.jpg)
 
 *CAD Image.*
-![img](assets/07.png)
+![img](sample/005.jpg)
 
 *Pen drawing Image.*
-![img](assets/07.png)
+![img](sample/006.jpg)
 
 *Illustration Image.*
-![img](assets/07.png)
+![img](sample/007.jpg)
 
 *Watercolor Image.*
-![img](assets/07.png)
+![img](sample/008.jpg)
 
 *Book Image.*
-![img](assets/07.png)
+![img](sample/009.jpg)
 
 *Digital Model Image.*
-![img](assets/07.png)
+![img](sample/010.jpg)
 
 *Historical Document Image.*
-![img](assets/07.png)
+![img](sample/011.jpg)
 
 ## TODO List
 
