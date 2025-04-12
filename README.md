@@ -6,7 +6,7 @@ Abstract: *In the context of the digital development of architecture, the automa
 
 
 *Figure 1) The framework of FP-LLaMa involves several steps. First, we train a VQ-VAE model, followed by training the FP-LLaMa. Subsequently, we apply RLHF using FloorPlan-MPS to align the model with architects' feedback.*
-![img](assets/1.png)
+![img](assets/01.png)
 
 *Figure 2) Architects assess building floor plans through various professional lenses, which can be broadly categorized into functionality, flow, and overall layout.*
 ![img](assets/2.png)
